@@ -1,45 +1,45 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="40" height="40" /> 全球半導體產業：完整學習指南 💖
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="40" height="40" /> Global Semiconductor Industry: A Complete Learning Guide 💖
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Semiconductor%20Guide&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Pink Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Semiconductor%20Guide&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Pink Header" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme-Pink%20Aesthetic-ff69b4?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Industry-Semiconductor-ffc0cb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Maintained-Yes-ff1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Author-Giecell%20Agasang-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Theme-Pink%20Aesthetic-ffb6c1?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Industry-Semiconductor-ff1493?style=for-the-badge" />
 </p>
 
 ---
 
-## 🎀 1. 產業核心框架 (Core Frameworks)
+## 🎀 1. Core Industry Frameworks
 
-為了全面理解半導體產業的變遷，我們採用以下經典商業管理框架進行剖析：
+To fully understand the structural dynamics and shifts within the semiconductor industry, we analyze the sector using classic strategic business management frameworks:
 
-### 🌸 PESTEL 全球環境分析
+### 🌸 PESTEL Global Macro-Environmental Analysis
 > [!NOTE]
-> ### 🦩 **Political (政治)**
-> 各國晶片法案（如美國 《CHIPS Act》、歐洲晶片法）、出口管制與地緣政治風險。
+> ### 🦩 **Political**
+> Government initiatives and legislations (such as the U.S. *CHIPS Act* and the European Chips Act), export controls, and geopolitical supply chain risks.
 > 
-> ### 🦩 **Economic (經濟)**
-> 通膨、晶圓廠巨額資本支出（CapEx）、循環性景氣波動。
+> ### 🦩 **Economic**
+> Global inflation pressures, massive capital expenditure (CapEx) requirements for wafer fabrication plants, and cyclical industry demand fluctuations.
 > 
-> ### 🦩 **Social (社會)**
-> 全球科技人才短缺、數位轉型帶來的晶片需求大增。
+> ### 🦩 **Social**
+> Severe global tech talent shortages and a surging demand for specialized chips driven by accelerating worldwide digital transformation.
 > 
-> ### 🦩 **Technological (技術)**
-> 摩爾定律（Moore's Law）極限、2奈米及以下先進製程、先進封裝（CoWoS）。
+> ### 🦩 **Technological**
+> Approaching the physical limitations of Moore's Law, development of sub-2nm advanced process nodes, and the rise of advanced packaging technologies (like CoWoS).
 > 
-> ### 🦩 **Environmental (環境)**
-> 半導體製造的高耗水與高耗電問題、ESG與綠色製造趨勢。
+> ### 🦩 **Environmental**
+> High water and power consumption challenges in manufacturing facilities, shifting industry standards toward ESG compliance and green manufacturing trends.
 > 
-> ### 🦩 **Legal (法律)**
-> 專利侵權訴訟、智慧財產權（IP）保護。
+> ### 🦩 **Legal**
+> Complex international patent infringement litigation and rigorous intellectual property (IP) protection strategies.
 
-### 🌸 SWOT 產業矩陣
+### 🌸 SWOT Industry Matrix
 
 ```diff
-+ 【優勢 Strengths】     高技術壁壘、生態系高度集中化（如台灣的晶圓代工群聚效應）。
-- 【劣勢 Weaknesses】    供應鏈極度脆弱、建廠週期長且成本極高。
-+ 【機會 Opportunities】 人工智慧（AI）伺服器、邊緣運算（Edge AI）、電動車（EV）。
-- 【威脅 Threats】       地緣衝突導致供應鏈斷鏈、產能過剩風險。
++ [Strengths]     High technical barriers to entry and a highly centralized ecosystem (such as Taiwan's dominant foundry cluster effect).
+- [Weaknesses]    Highly fragile supply chain networks, long fab construction cycles, and immense upfront capital investments.
++ [Opportunities] Rapid growth in Artificial Intelligence (AI) servers, Edge AI computing, electric vehicles (EVs), and smart technologies.
+- [Threats]       Geopolitical conflicts leading to critical supply chain disruptions and structural risks of regional overcapacity.
